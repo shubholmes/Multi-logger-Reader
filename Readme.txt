@@ -2,7 +2,7 @@ Read data from 4 different dataloggers, resamples the data and plots the graph.
 
 For example we monitor the temperature and relative humidity of structures e.g Dome Shaped Solar Dryer (dssd) and compare with the environment (ambient). Different types of loggers are usually used and they don't present their data in the same format(both extention and display)
 
-We use:
+Datalogger types:
 EasyLog High Temperature, thermocouple logger (don't read relative humidity), Temtop and ST-172(read relative humidity)
 
 Takes parameters like this:
